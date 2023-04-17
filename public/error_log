@@ -1,0 +1,36 @@
+[01-Apr-2023 23:15:25 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home1/dengue76/hugochimachi.com.br/storage/framework/views/765267d4d933156a864f2f2d243a51194a14b956.php on line 18
+[01-Apr-2023 21:51:29 America/Fortaleza] PHP Parse error:  syntax error, unexpected single-quoted string "can", expecting "]" in /home1/dengue76/hugochimachi.com.br/app/Http/Kernel.php on line 60
+[01-Apr-2023 21:52:47 America/Fortaleza] PHP Parse error:  syntax error, unexpected single-quoted string "can", expecting "]" in /home1/dengue76/hugochimachi.com.br/app/Http/Kernel.php on line 60
+[01-Apr-2023 21:52:50 America/Fortaleza] PHP Parse error:  syntax error, unexpected single-quoted string "can", expecting "]" in /home1/dengue76/hugochimachi.com.br/app/Http/Kernel.php on line 60
+[01-Apr-2023 21:52:59 America/Fortaleza] PHP Parse error:  syntax error, unexpected single-quoted string "can", expecting "]" in /home1/dengue76/hugochimachi.com.br/app/Http/Kernel.php on line 60
+[01-Apr-2023 21:53:07 America/Fortaleza] PHP Parse error:  syntax error, unexpected single-quoted string "can", expecting "]" in /home1/dengue76/hugochimachi.com.br/app/Http/Kernel.php on line 60
+[01-Apr-2023 21:53:33 America/Fortaleza] PHP Parse error:  syntax error, unexpected single-quoted string "can", expecting "]" in /home1/dengue76/hugochimachi.com.br/app/Http/Kernel.php on line 60
+[01-Apr-2023 21:53:49 America/Fortaleza] PHP Parse error:  syntax error, unexpected single-quoted string "can", expecting "]" in /home1/dengue76/hugochimachi.com.br/app/Http/Kernel.php on line 60
+[01-Apr-2023 21:54:16 America/Fortaleza] PHP Parse error:  syntax error, unexpected single-quoted string "can", expecting "]" in /home1/dengue76/hugochimachi.com.br/app/Http/Kernel.php on line 60
+[01-Apr-2023 21:54:24 America/Fortaleza] PHP Parse error:  syntax error, unexpected single-quoted string "can", expecting "]" in /home1/dengue76/hugochimachi.com.br/app/Http/Kernel.php on line 60
+[01-Apr-2023 21:54:26 America/Fortaleza] PHP Parse error:  syntax error, unexpected single-quoted string "can", expecting "]" in /home1/dengue76/hugochimachi.com.br/app/Http/Kernel.php on line 60
+[01-Apr-2023 21:54:27 America/Fortaleza] PHP Parse error:  syntax error, unexpected single-quoted string "can", expecting "]" in /home1/dengue76/hugochimachi.com.br/app/Http/Kernel.php on line 60
+[01-Apr-2023 21:54:54 America/Fortaleza] PHP Parse error:  syntax error, unexpected single-quoted string "can", expecting "]" in /home1/dengue76/hugochimachi.com.br/app/Http/Kernel.php on line 60
+[01-Apr-2023 21:54:56 America/Fortaleza] PHP Parse error:  syntax error, unexpected single-quoted string "can", expecting "]" in /home1/dengue76/hugochimachi.com.br/app/Http/Kernel.php on line 60
+[01-Apr-2023 21:54:57 America/Fortaleza] PHP Parse error:  syntax error, unexpected single-quoted string "can", expecting "]" in /home1/dengue76/hugochimachi.com.br/app/Http/Kernel.php on line 60
+[01-Apr-2023 21:55:01 America/Fortaleza] PHP Parse error:  syntax error, unexpected single-quoted string "can", expecting "]" in /home1/dengue76/hugochimachi.com.br/app/Http/Kernel.php on line 60
+[01-Apr-2023 21:55:04 America/Fortaleza] PHP Parse error:  syntax error, unexpected single-quoted string "can", expecting "]" in /home1/dengue76/hugochimachi.com.br/app/Http/Kernel.php on line 60
+[01-Apr-2023 21:55:17 America/Fortaleza] PHP Parse error:  syntax error, unexpected single-quoted string "can", expecting "]" in /home1/dengue76/hugochimachi.com.br/app/Http/Kernel.php on line 60
+[01-Apr-2023 21:55:18 America/Fortaleza] PHP Parse error:  syntax error, unexpected single-quoted string "can", expecting "]" in /home1/dengue76/hugochimachi.com.br/app/Http/Kernel.php on line 60
+[01-Apr-2023 21:55:19 America/Fortaleza] PHP Parse error:  syntax error, unexpected single-quoted string "can", expecting "]" in /home1/dengue76/hugochimachi.com.br/app/Http/Kernel.php on line 60
+[01-Apr-2023 21:55:51 America/Fortaleza] PHP Parse error:  syntax error, unexpected single-quoted string "can", expecting "]" in /home1/dengue76/hugochimachi.com.br/app/Http/Kernel.php on line 60
+[01-Apr-2023 21:55:52 America/Fortaleza] PHP Parse error:  syntax error, unexpected single-quoted string "can", expecting "]" in /home1/dengue76/hugochimachi.com.br/app/Http/Kernel.php on line 60
+[01-Apr-2023 21:56:05 America/Fortaleza] PHP Parse error:  syntax error, unexpected single-quoted string "can", expecting "]" in /home1/dengue76/hugochimachi.com.br/app/Http/Kernel.php on line 60
+[01-Apr-2023 21:56:16 America/Fortaleza] PHP Parse error:  syntax error, unexpected single-quoted string "can", expecting "]" in /home1/dengue76/hugochimachi.com.br/app/Http/Kernel.php on line 60
+[01-Apr-2023 21:56:28 America/Fortaleza] PHP Parse error:  syntax error, unexpected single-quoted string "can", expecting "]" in /home1/dengue76/hugochimachi.com.br/app/Http/Kernel.php on line 60
+[01-Apr-2023 21:57:22 America/Fortaleza] PHP Parse error:  syntax error, unexpected single-quoted string "can", expecting "]" in /home1/dengue76/hugochimachi.com.br/app/Http/Kernel.php on line 60
+[01-Apr-2023 21:57:27 America/Fortaleza] PHP Parse error:  syntax error, unexpected single-quoted string "can", expecting "]" in /home1/dengue76/hugochimachi.com.br/app/Http/Kernel.php on line 60
+[01-Apr-2023 21:57:37 America/Fortaleza] PHP Parse error:  syntax error, unexpected single-quoted string "can", expecting "]" in /home1/dengue76/hugochimachi.com.br/app/Http/Kernel.php on line 60
+[01-Apr-2023 21:58:02 America/Fortaleza] PHP Parse error:  syntax error, unexpected single-quoted string "can", expecting "]" in /home1/dengue76/hugochimachi.com.br/app/Http/Kernel.php on line 60
+[01-Apr-2023 22:06:45 America/Fortaleza] PHP Parse error:  syntax error, unexpected single-quoted string "can", expecting "]" in /home1/dengue76/hugochimachi.com.br/app/Http/Kernel.php on line 60
+[01-Apr-2023 22:07:04 America/Fortaleza] PHP Parse error:  syntax error, unexpected single-quoted string "can", expecting "]" in /home1/dengue76/hugochimachi.com.br/app/Http/Kernel.php on line 60
+[01-Apr-2023 22:07:13 America/Fortaleza] PHP Parse error:  syntax error, unexpected single-quoted string "can", expecting "]" in /home1/dengue76/hugochimachi.com.br/app/Http/Kernel.php on line 60
+[01-Apr-2023 22:07:16 America/Fortaleza] PHP Parse error:  syntax error, unexpected single-quoted string "can", expecting "]" in /home1/dengue76/hugochimachi.com.br/app/Http/Kernel.php on line 60
+[01-Apr-2023 22:11:43 America/Fortaleza] PHP Parse error:  syntax error, unexpected single-quoted string "can", expecting "]" in /home1/dengue76/hugochimachi.com.br/app/Http/Kernel.php on line 60
+[03-Apr-2023 22:45:02 America/Fortaleza] PHP Warning:  move_uploaded_file(images/hugo.jpg): Failed to open stream: No such file or directory in /home1/dengue76/hugochimachi.com.br/public/postimage.php on line 52
+[03-Apr-2023 22:45:02 America/Fortaleza] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/php6VF0xF&quot; to &quot;images/hugo.jpg&quot; in /home1/dengue76/hugochimachi.com.br/public/postimage.php on line 52
