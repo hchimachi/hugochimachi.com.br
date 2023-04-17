@@ -16,5 +16,5 @@ jobs:
       with:
         server: ${{ secrets.host }}
         username: ${{ secrets.user }}
-        password: ${{ secrets.pass }}
-        server-dir: ${{ secrets.diretorio }}
+        password: ${{ secrets.hpass }}
+        
