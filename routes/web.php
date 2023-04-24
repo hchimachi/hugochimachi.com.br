@@ -4,6 +4,7 @@ use Illuminate\Support\Facades\Route;
 use Illuminate\Support\Facades\Auth;
 use App\Http\Controllers\HomeController;
 use App\Http\Controllers\ArtigoController;
+use App\Http\Controllers\ComentarioController;
 use App\Http\Controllers\UsuarioController;
 /*
 |--------------------------------------------------------------------------
@@ -18,8 +19,11 @@ use App\Http\Controllers\UsuarioController;
 
 Route::get('/', [HomeController::class, 'home'])->name('home');
 Route::get('/blog', [HomeController::class, 'blog'])->name('blog');
-Route::get('/blog/{cat?}/{art}', [HomeController::class, 'artigo'])->name('blog.artigo');
-
+Route::post('/blog/comentario', [HomeController::class, 'comentario'])->name('g.comentario');
+Route::get('/blog/{cat}/{art}', [HomeController::class, 'artigo'])->name('blog.artigo');
+Route::post('/blog/respcomentario', [HomeController::class, 'respcomentario'])->name('g.respcomentario');
+Route::get('/delcom/{id}', [ComentarioController::class, 'apagacomentario'])->name('apaga.comentario');
+Route::get('/delres/{id}', [ComentarioController::class, 'apagaresposta'])->name('apaga.rescomentario');
 
 Route::middleware(['auth', 'verified'])->group(function(){
     Route::get('/admin', [HomeController::class, 'index'])->name('admin');

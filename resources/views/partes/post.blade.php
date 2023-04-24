@@ -8,6 +8,7 @@
             <!-- Post categories-->
             <a class="badge bg-secondary text-decoration-none link-light" href="#!">{{$artigo->categoria}}</a>
             <a class="badge bg-secondary text-decoration-none link-light" href="#!">{{$artigo->titulo}}</a>
+            @include('partes.erros')
         </header>
         <!-- Preview image figure-->
         <figure class="mb-4"><img class="img-fluid rounded" src="/storage/{{$artigo->fotoartigo}}" alt="foto de {{$artigo->titulo}}" /></figure>

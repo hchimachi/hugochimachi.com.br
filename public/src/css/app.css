@@ -4,3 +4,12 @@
 .bgteste{
     background-color: aquamarine;
 }
+.fotoartigolista{
+    width: 5vw;
+    margin-left: 70%;
+    border-radius: 500px;
+    text-align: end;
+}
+.comentario{
+    width: 4vw;
+}
